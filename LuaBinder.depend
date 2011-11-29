@@ -1,0 +1,19 @@
+# depslib dependency file v1.0
+1322551740 source:d:\project\lua\luabinder\src\hero.cpp
+	"../include/Hero.h"
+
+1322550012 d:\project\lua\luabinder\include\hero.h
+	"../include/Binder.h"
+
+1322555457 source:d:\project\lua\luabinder\main.cpp
+	<iostream>
+	"include/Hero.h"
+
+1322555443 source:d:\project\lua\luabinder\src\binder.cpp
+	"../include/Binder.h"
+
+1322555703 d:\project\lua\luabinder\include\binder.h
+	"lua.h"
+	"lualib.h"
+	"lauxlib.h"
+

@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<CodeBlocks_layout_file>
+	<ActiveTarget name="Debug" />
+	<File name="include\Binder.h" open="1" top="0" tabpos="4">
+		<Cursor position="302" topLine="0" />
+	</File>
+	<File name="include\Hero.h" open="1" top="0" tabpos="2">
+		<Cursor position="164" topLine="0" />
+	</File>
+	<File name="main.cpp" open="1" top="0" tabpos="1">
+		<Cursor position="469" topLine="0" />
+	</File>
+	<File name="src\Binder.cpp" open="1" top="0" tabpos="5">
+		<Cursor position="279" topLine="0" />
+	</File>
+	<File name="src\Hero.cpp" open="1" top="1" tabpos="3">
+		<Cursor position="122" topLine="0" />
+	</File>
+</CodeBlocks_layout_file>
